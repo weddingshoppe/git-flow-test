@@ -1,0 +1,6 @@
+
+# ignore (web|php)storm files
+.idea/
+
+# ignore the lib folder (if we had one)
+lib/
